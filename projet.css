@@ -103,7 +103,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: yellow;
+    color: rgb(246, 246, 245);
     text-decoration: none;
     transition: color 0.3s ease;
 }
